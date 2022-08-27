@@ -24,9 +24,9 @@
 <img src="./pictures/p2.png" width="800"> <br>
 <img src="./pictures/p3.png" width="800"> <br>
 
-## Live Location 
-<img src="./pictures/p4.png" width="800"> <br>
 ## Online Users Section
+<img src="./pictures/p4.png" width="800"> <br>
+## Live Location
 <img src="./pictures/p5.png" width="800"> <br>
-<img src="./pictures/p6.png" width="800"> <br>
+
 
